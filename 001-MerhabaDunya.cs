@@ -6,6 +6,6 @@ class program
         
         Console.WriteLine("Çıkış yapmak için bir tuşa basınız.")
 
-        Console.ReadKey(); //Bir tuşa basmasını bekler
+        Console.ReadKey(); //Bir tuşa basmasını bekler.
     }
 }
